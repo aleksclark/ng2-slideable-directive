@@ -7,7 +7,7 @@
  * @author Bogdan Shapoval (targus) <it.targus@gmail.com>
  */
 
-import {Directive, Input, Output, Renderer, ElementRef, EventEmitter} from 'angular2/core'
+import {Directive, Input, Output, Renderer, ElementRef, EventEmitter} from '@angular/core'
 
 export class BoundingRectClass {
     left:number;

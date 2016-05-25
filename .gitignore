@@ -3,3 +3,6 @@
 *.js.map
 /*.d.ts
 
+.idea
+node_modules
+typings
